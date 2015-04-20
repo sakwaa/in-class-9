@@ -1,0 +1,1 @@
+1) In the current source code unmodified, the bunny moves about randomly without taking into account where the wolf is. The wolf, on the other hand, determines the bunny's location and narrows in on it as it comes into the wolfs field of view. A refactor would be to add informed planning to the bunny so that it does not move in random directions.
